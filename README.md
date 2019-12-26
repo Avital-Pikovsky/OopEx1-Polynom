@@ -1,8 +1,8 @@
 The project written by:
 
-Netanel Albert - 206290074
+Netanel Albert
 
-Avital Pikovsky - 316331198
+Avital Pikovsky
 
 Our project enable the user to builds a functions, do an oparations on them, keeps them as a collection and draws them on the screen.
 Our project have a 4 main classes: Polynom, Monom, ComplexFunction and Function_GUI when each of them has functions that can be applied on them.
